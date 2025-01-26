@@ -60,3 +60,5 @@ for column, pattern in patterns.items():
 for column, counts in match_counts.items():
     print(f'\nMatch counts for {column}:')
     print(counts)
+
+print("Hello world")
